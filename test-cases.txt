@@ -1,0 +1,28 @@
+test cases
+
+Compliant Drafts (Should Pass)
+"Excited to announce our upcoming Q4 sustainability commitments—bringing greener packaging across all our product lines. #SustainableFuture #Innovation"
+
+"Our latest skincare formula is dermatologically tested and backed by third-party validation. Check our website for transparent ingredient details. #CleanBeauty"
+
+"Holiday Offer Alert! Enjoy 20% off sitewide — Terms and Conditions Apply. Visit our legal page for full details. #FestiveSavings #TnCApply"
+
+"Proud moment! Our team just reached 10,000 volunteer hours supporting local education. Together, we make impact possible. 💚 #CommunityFirst"
+
+"Our refreshed brand design maintains our professional integrity while bringing a modern twist. Explore our journey on the blog. #BrandEvolution"
+
+Non-Compliant Drafts (Should Trigger Violations)
+"Our product is the best in the market—guaranteed to double your performance instantly!"
+(Violates Policy Excerpt 2: Unverified Claims)
+
+"Wait till you see what’s dropping on November 21st 👀 — biggest surprise of the decade!"
+(Violates Policy Excerpt 3: Confidential Information — unannounced product details)
+
+"We’re definitely miles ahead of BrandX lately. They might want to take notes 😉"
+(Violates Policy Excerpt 1: Brand Tone — negativity and competitor reference)
+
+"Here’s a meme to kickstart your Monday! 😂 [Low-res meme with watermark]"
+(Violates Policy Excerpt 4: Appropriate Imagery — low-quality, third-party content)
+
+"Biggest Discount Ever! EVERYTHING MUST GO!!!"
+(Violates Policy Excerpt 1: Tone + Policy Excerpt 5: Missing Regulatory Language)
